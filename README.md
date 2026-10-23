@@ -101,7 +101,7 @@ anon_scan/
 
 ```bash
 # Clone
-git clone https://github.com/SEUUSER/ANON_SCAN.git
+git clone https://github.com/FullSuporte/ANON_SCAN.git
 cd ANON_SCAN
 
 # Dependencies
@@ -137,9 +137,9 @@ Pentest Manual + Engine Próprio — Disponível para contratação.
 
 Canal
 Contato
-Email	kristophe.brito@proton.me
+Email	fullsuporte@gmail.com
 LinkedIn	linkedin.com/in/kristophe-brito-071995105/
-Calendly	calendly.com/seuusuario/pentest-discovery
+Calendly	https://calendly.com/fullsuporte/30min
 Billing	USD (WISE/Remessa/PIX)
 Engagements: PCI-DSS 11.3/11.4 • LGPD Art. 48 • Enterprise Contracts • Due Diligence • Vendor Assessment
 
